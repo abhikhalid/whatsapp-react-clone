@@ -16,3 +16,5 @@
 
 npm install @emotion/react 
 npm install @emotion/styled
+
+Hosting URL: https://whatsapp-react-clone-a5627.web.app
