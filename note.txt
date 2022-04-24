@@ -13,3 +13,6 @@
 6. Google Authentication
 
 7. Deploy using Firebase
+
+npm install @emotion/react 
+npm install @emotion/styled
